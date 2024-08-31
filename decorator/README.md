@@ -4,7 +4,7 @@
 
 - Là mẫu thiết kết cấu trúc (structural design pattern) cho phép bạn đính kèm các hành vi mới vào các đối tượng bằng cách đặt các đối tượng này bên trong các đối tượng bao bọc đặc biệt có chứa các hành vi đó.
 
-![Ảnh minh họa](/images/1.bmp)
+![Ảnh minh họa](/decorator/images/1.bmp)
 
 ## Vấn đề
 
@@ -74,7 +74,7 @@ Những thành phần trong mẫu thiết kế Decorator:
 
 Class Diagram về thiết kế MilkTea:
 
-![Decorator Diagram](/images/diagram.png)
+![Decorator Diagram](/decorator/images/diagram.png)
 
 ## Tài liệu tham khảo
 
