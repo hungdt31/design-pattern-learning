@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="jb"
-                 name="Java Basic"
+                 name="JavaCollection"
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
