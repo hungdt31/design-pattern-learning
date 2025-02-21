@@ -12,4 +12,3 @@
 ### Structural Design Patterns
 
 - [Decorator](/decorator/README.md)
-
