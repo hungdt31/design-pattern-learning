@@ -18,19 +18,19 @@
 
 ## Ưu điểm của Strategy Pattern
 
-1. **Tính mở rộng**: Dễ dàng thêm các thuật toán mới mà không cần sửa đổi code hiện có.
-2. **Tính linh hoạt**: Có thể thay đổi thuật toán tại runtime.
-3. **Tách biệt**: Tách biệt code triển khai thuật toán khỏi code sử dụng nó.
-4. **Nguyên tắc Open/Closed**: Tuân thủ nguyên tắc "mở để mở rộng, đóng để sửa đổi".
-5. **Nguyên tắc Single Responsibility**: Mỗi chiến lược chỉ thực hiện một nhiệm vụ duy nhất.
+- **Tính mở rộng**: Dễ dàng thêm các thuật toán mới mà không cần sửa đổi code hiện có.
+- **Tính linh hoạt**: Có thể thay đổi thuật toán tại runtime.
+- **Tách biệt**: Tách biệt code triển khai thuật toán khỏi code sử dụng nó.
+- **Nguyên tắc Open/Closed**: Tuân thủ nguyên tắc "mở để mở rộng, đóng để sửa đổi".
+- **Nguyên tắc Single Responsibility**: Mỗi chiến lược chỉ thực hiện một nhiệm vụ duy nhất.
 
 ## Ví dụ trong workspace: Tính điểm GPA
 
 Trong workspace này, Strategy Pattern được áp dụng để tính toán điểm GPA theo các thang điểm khác nhau:
 
-### Cấu trúc của mã nguồn:
+### Cấu trúc của mã nguồn
 
-1. **Context (GPAContext.java)**: Lớp ngữ cảnh chứa tham chiếu đến chiến lược tính GPA.
+**Context (GPAContext.java)**: Lớp ngữ cảnh chứa tham chiếu đến chiến lược tính GPA.
 
 ```java
 public class GPAContext {
@@ -46,7 +46,7 @@ public class GPAContext {
 }
 ```
 
-2. **Strategy (GPAStrategy.java)**: Giao diện chung định nghĩa phương thức tính GPA.
+**Strategy (GPAStrategy.java)**: Giao diện chung định nghĩa phương thức tính GPA.
 
 ```java
 public interface GPAStrategy {
@@ -54,13 +54,13 @@ public interface GPAStrategy {
 }
 ```
 
-3. **Concrete Strategies**:
-   - **GPAScale10.java**: Tính GPA theo thang điểm 10.
-   - **GPAScale4.java**: Tính GPA theo thang điểm 4.
+**Concrete Strategies**:
+    - **GPAScale10.java**: Tính GPA theo thang điểm 10.
+    - **GPAScale4.java**: Tính GPA theo thang điểm 4.
 
-4. **Model (Course.java)**: Đại diện cho một môn học với thông tin cần thiết.
+**Model (Course.java)**: Đại diện cho một môn học với thông tin cần thiết.
 
-### Luồng thực thi:
+### Luồng thực thi
 
 1. Chương trình đọc danh sách môn học từ file `points.txt`.
 2. Tạo đối tượng `GPAContext`.
@@ -72,7 +72,7 @@ public interface GPAStrategy {
    - Gọi phương thức calculateGPA().
 5. Hiển thị kết quả trong giao diện người dùng.
 
-### Ưu điểm của việc áp dụng Strategy Pattern trong ví dụ này:
+### Ưu điểm của việc áp dụng Strategy Pattern trong ví dụ này
 
 1. **Dễ mở rộng**: Có thể dễ dàng thêm chiến lược tính điểm mới (ví dụ: GPAScale100 cho thang điểm 100) mà không cần sửa đổi code hiện có.
 2. **Đóng gói thuật toán**: Mỗi chiến lược đóng gói một thuật toán tính điểm, làm cho code dễ hiểu và bảo trì.
