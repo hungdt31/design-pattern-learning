@@ -43,11 +43,12 @@ public class Main {
 
                 // Xử lý dòng thông tin khóa học
                 String[] parts = line.split("\\|");
-                // Dùng trim() cho từng phần tử để loại bỏ khoảng trắng
 
                 for (int i = 0; i < parts.length; i++) {
+                    // loại bỏ khoảng trắng ở đầu và cuối
                     parts[i] = parts[i].trim();
                 }
+
                 if (parts[2].contains("-") || parts[4].contains("-")) {
                     continue;
                 }
