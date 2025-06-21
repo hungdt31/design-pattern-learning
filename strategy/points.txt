@@ -1,0 +1,125 @@
+ĐOÀN TRÍ HÙNG (2211322) - MT22KH03 | 2022 - Computer Science
+
+1. MATHEMATICS AND OTHER NATURAL SCIENCES (7/7, 2/2) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO1007 | Discrete Structures for Computer Science | 4 | Compulsory | 6.90 | C+  
+CO2011 | Mathematical Modeling | 3 | Compulsory | 7.40 | B  
+
+2. MATHEMATICS (15/15, 4/4)
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+MT1003 | Calculus 1 | 4 | Compulsory | 9.10 | A  
+MT1005 | Calculus 2 | 4 | Compulsory | 7.80 | B  
+MT1007 | Linear Algebra | 3 | Compulsory | 9.70 | A+  
+MT2013 | Probability and Statistics | 4 | Compulsory | 8.60 | A  
+
+3. NATURAL SCIENCES (8/8, 3/3)
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CH1003 | General Chemistry | 3 | Compulsory | 8.70 | A  
+PH1003 | Physics 1 | 4 | Compulsory | 7.90 | B  
+PH1007 | Physics Experiments | 1 | Compulsory | 7.80 | B  
+
+4. ECONOMICS - POLITICS - SOCIETY - LAW (11/13, 5/6) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+SP1007 | General Vietnamese Law | 2 | Compulsory | 7.20 | B  
+SP1031 | Marxist-Leninist Philosophy | 3 | Compulsory | 7.20 | B  
+SP1033 | Marxist-Leninist Political Economy | 2 | Compulsory | 7.30 | B  
+SP1035 | Scientific Socialism | 2 | Compulsory | 8.10 | B+  
+SP1037 | Ho Chi Minh Ideology | 2 | Compulsory | - | -  
+SP1039 | History of the Communist Party of Vietnam | 2 | Compulsory | 7.70 | B  
+
+5. FOREIGN LANGUAGE (8/8, 4/4) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+LA1003 | English 1 | 2 | Compulsory | 7.40 | B  
+LA1005 | English 2 | 2 | Compulsory | 7.70 | B  
+LA1007 | English 3 | 2 | Compulsory | 7.00 | B  
+LA1009 | English 4 | 2 | Compulsory | 7.70 | B  
+
+6. INTRODUCTION (3/3, 1/1) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO1005 | Introduction to Computing | 3 | Compulsory | 8.40 | B+  
+
+7. MANAGEMENT (GROUP D) (0/3, 0) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+IM1013 | General Economics | 3 | Elective | - | -  
+IM1023 | Production Management for Engineers | 3 | Elective | - | -  
+IM1025 | Project Management for Engineers | 3 | Elective | - | -  
+IM1027 | Technical Economics | 3 | Elective | - | -  
+IM3001 | Business Administration for Engineers | 3 | Elective | - | -  
+
+8. HUMAN AND ENVIRONMENT (3/3, 1/1)  
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO2001 | Professional Skills for Engineers | 3 | Compulsory | 8.60 | A  
+
+9. CORE COURSES (21/21, 6/6)  
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO1023 | Digital Systems | 3 | Compulsory | 8.90 | A  
+CO1027 | Programming Techniques | 3 | Compulsory | 8.10 | B+  
+CO2003 | Data Structures and Algorithms | 4 | Compulsory | 7.70 | B  
+CO2007 | Computer Architecture | 4 | Compulsory | 8.30 | B+  
+CO2013 | Database Systems | 4 | Compulsory | 8.20 | B+  
+CO2039 | Advanced Programming | 3 | Compulsory | 8.80 | A  
+
+10. MAJOR COURSES (GROUP A) (1/1, 1)
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO3101 | Capstone Project - Artificial Intelligence Track | 1 | Elective | - | -  
+CO3103 | Capstone Project - Software Technology Track | 1 | Elective | 9.50 | A+  
+CO3105 | Capstone Project - Information Systems Track | 1 | Elective | - | -  
+CO3127 | Capstone Project - Data Engineering Track | 1 | Elective | - | -  
+
+11. MAJOR COURSES (GROUP B) (1/1, 1)  
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO3107 | Interdisciplinary Project Internship - Artificial Intelligence Track | 1 | Elective | - | -  
+CO3109 | Interdisciplinary Project Internship - Software Technology Track | 1 | Elective | 9.70 | A+  
+CO3111 | Interdisciplinary Project Internship - Information Systems Track | 1 | Elective | - | -  
+
+12. MAJOR COURSES (GROUP C) (6/15, 2)  
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO3011 | Software Project Management | 3 | Elective | - | -  
+CO3013 | Compiler Construction | 3 | Elective | - | -  
+CO3015 | Software Testing | 3 | Elective | - | -  
+CO3017 | Software Architecture | 3 | Elective | - | -  
+CO3021 | Database Management Systems | 3 | Elective | - | -  
+CO3023 | Distributed and Object-Oriented Databases | 3 | Elective | - | -  
+CO3027 | E-Commerce | 3 | Elective | - | -  
+CO3029 | Data Mining | 3 | Elective | - | -  
+CO3031 | Analysis and Design of Algorithms | 3 | Elective | - | -  
+CO3033 | Information System Security | 3 | Elective | - | -  
+CO3035 | Real-Time Systems | 3 | Elective | - | -  
+CO3037 | Internet of Things Application Development | 3 | Elective | - | -  
+CO3041 | Intelligent Systems | 3 | Elective | - | -  
+CO3043 | Mobile Application Development | 3 | Elective | - | -  
+CO3045 | Game Programming | 3 | Elective | - | -  
+CO3047 | Advanced Computer Networks | 3 | Elective | - | -  
+CO3049 | Web Programming | 3 | Elective | 9.30 | A  
+CO3051 | Mobile Device Systems | 3 | Elective | - | -  
+CO3057 | Digital Image Processing and Computer Vision | 3 | Elective | - | -  
+CO3059 | Computer Graphics | 3 | Elective | - | -  
+CO3061 | Introduction to Artificial Intelligence | 3 | Elective | - | -  
+CO3065 | Advanced Software Engineering | 3 | Elective | 7.50 | B  
+CO3067 | Parallel Computing | 3 | Elective | - | -  
+CO3069 | Cryptography and Network Security | 3 | Elective | - | -  
+CO3071 | Distributed Systems | 3 | Elective | - | -  
+CO3083 | Cryptography and Information Coding | 3 | Elective | - | -  
+CO3085 | Natural Language Processing | 3 | Elective | - | -  
+CO3089 | Advanced Topics in Computer Science | 3 | Elective | - | -  
+CO3115 | Systems Analysis and Design | 3 | Elective | - | -  
+CO3117 | Machine Learning | 3 | Elective | - | -  
+CO4025 | Social Networks and Information | 3 | Elective | - | -  
+CO4031 | Data Warehousing and Decision Support Systems | 3 | Elective | - | -  
+CO4033 | Big Data Analytics and Business Intelligence | 3 | Elective | - | -  
+CO4035 | Enterprise Resource Planning | 3 | Elective | - | -  
+CO4037 | Management Information Systems | 3 | Elective | - | -  
+CO4039 | Biometric Security | 3 | Elective | - | -  
+
+13. MAJOR COURSES (13/13, 4/4) 
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO2017 | Operating Systems | 3 | Compulsory | 7.00 | B  
+CO3001 | Software Engineering | 3 | Compulsory | 8.90 | A  
+CO3005 | Principles of Programming Languages | 4 | Compulsory | 6.90 | C+  
+CO3093 | Computer Networks | 3 | Compulsory | 7.90 | B  
+
+14. GRADUATION (0/8, 0/3)
+Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
+CO3335 | External Internship | 2 | Compulsory | - | -  
+CO4029 | Major Project | 2 | Compulsory | - | -  
+CO4337 | Graduation Project (Computer Science) | 4 | Compulsory | - | -  
