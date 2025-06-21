@@ -11,6 +11,10 @@
 
 ## Learning Process
 
-### Structural Design Patterns
+### Structural Patterns
 
 - [Decorator](/decorator/README.md)
+
+### Behavioral Patterns
+
+- [Strategy](/strategy/README.md)
