@@ -72,7 +72,7 @@ CO3107 | Interdisciplinary Project Internship - Artificial Intelligence Track | 
 CO3109 | Interdisciplinary Project Internship - Software Technology Track | 1 | Elective | 9.70 | A+  
 CO3111 | Interdisciplinary Project Internship - Information Systems Track | 1 | Elective | - | -  
 
-12. MAJOR COURSES (GROUP C) (6/15, 2)  
+12. MAJOR COURSES (GROUP C) (9/15, 3)  
 Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
 CO3011 | Software Project Management | 3 | Elective | - | -  
 CO3013 | Compiler Construction | 3 | Elective | - | -  
@@ -87,7 +87,7 @@ CO3033 | Information System Security | 3 | Elective | - | -
 CO3035 | Real-Time Systems | 3 | Elective | - | -  
 CO3037 | Internet of Things Application Development | 3 | Elective | - | -  
 CO3041 | Intelligent Systems | 3 | Elective | - | -  
-CO3043 | Mobile Application Development | 3 | Elective | - | -  
+CO3043 | Mobile Application Development | 3 | Elective | 9.00 | A  
 CO3045 | Game Programming | 3 | Elective | - | -  
 CO3047 | Advanced Computer Networks | 3 | Elective | - | -  
 CO3049 | Web Programming | 3 | Elective | 9.30 | A  
