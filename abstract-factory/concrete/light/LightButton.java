@@ -10,7 +10,7 @@ import java.awt.*;
 public class LightButton implements Button {
     @Override
     public JComponent render() {
-        JButton button = new JButton("Xin chào");
+        JButton button = new JButton("Hello, ");
         button.setPreferredSize(new Dimension(100, 30));
         button.setBackground(new Color(245, 245, 245));
         button.setForeground(new Color(30, 30, 30));

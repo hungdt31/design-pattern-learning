@@ -14,7 +14,7 @@ public class LightTextField implements TextField {
     private JTextField textField;
     private JButton editButton;
     private JButton cancelButton;
-    private String userName = "Người dùng";
+    private String userName = "Nguyen Van A";
     private boolean isEditing = false;
     
     @Override
@@ -77,7 +77,7 @@ public class LightTextField implements TextField {
                     userName = textField.getText();
                     editButton.setText("Edit");
                     cancelButton.setVisible(false);
-                    JOptionPane.showMessageDialog(textFieldPanel, "Đã lưu tên: " + userName);
+                    JOptionPane.showMessageDialog(textFieldPanel, "Saved name: " + userName);
                 }
             }
         });

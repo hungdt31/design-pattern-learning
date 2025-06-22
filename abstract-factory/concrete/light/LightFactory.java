@@ -25,4 +25,10 @@ public class LightFactory implements GUIFactory {
     public Calculator createCalculator() {
         return new LightCalculator();
     }
+
+    @Override
+    public Label createLabel() {
+        return new LightLabel();
+    }
+
 } 

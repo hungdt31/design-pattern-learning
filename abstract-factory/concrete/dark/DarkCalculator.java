@@ -87,8 +87,9 @@ public class DarkCalculator implements Calculator, ActionListener {
             numberButtons[i] = new JButton(String.valueOf(i));
             numberButtons[i].setFont(buttonFont);
             numberButtons[i].setFocusPainted(false);
-            numberButtons[i].setBackground(new Color(40, 40, 45));
-            numberButtons[i].setForeground(new Color(250, 250, 250));
+            // numberButtons[i].setBackground(new Color(40, 40, 45));
+            // numberButtons[i].setForeground(new Color(250, 250, 250));
+            numberButtons[i].setForeground(Color.BLUE);
             numberButtons[i].setBorder(BorderFactory.createLineBorder(new Color(60, 60, 70), 1));
             numberButtons[i].addActionListener(this);
         }
@@ -111,17 +112,18 @@ public class DarkCalculator implements Calculator, ActionListener {
         for (JButton button : functionButtons) {
             button.setFont(buttonFont);
             button.setFocusPainted(false);
-            button.setBackground(new Color(45, 50, 55));
-            button.setForeground(new Color(250, 250, 250));
+            // button.setBackground(new Color(45, 50, 55));
+            // button.setForeground(new Color(250, 250, 250));
+            button.setForeground(Color.BLUE);
             button.setBorder(BorderFactory.createLineBorder(new Color(60, 60, 70), 1));
             button.addActionListener(this);
         }
         
         // Màu sắc đặc biệt cho Dark mode
         equButton.setBackground(new Color(0, 100, 175));
-        equButton.setForeground(Color.WHITE);
+        equButton.setForeground(Color.BLUE);
         clrButton.setBackground(new Color(150, 50, 50));
-        clrButton.setForeground(Color.WHITE);
+        clrButton.setForeground(Color.BLUE);
         
         // Tạo JPanel trống cho các vị trí không cần nút
         JPanel emptyPanel1 = new JPanel();

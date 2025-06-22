@@ -117,9 +117,9 @@ public class LightCalculator implements Calculator, ActionListener {
         
         // Màu sắc đặc biệt cho Light mode
         equButton.setBackground(new Color(66, 165, 245));
-        equButton.setForeground(Color.WHITE);
+        // equButton.setForeground(Color.WHITE);
         clrButton.setBackground(new Color(239, 83, 80));
-        clrButton.setForeground(Color.WHITE);
+        // clrButton.setForeground(Color.WHITE);
         
         // Tạo JPanel trống cho các vị trí không cần nút
         JPanel emptyPanel1 = new JPanel();

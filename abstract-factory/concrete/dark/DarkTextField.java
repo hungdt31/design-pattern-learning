@@ -14,7 +14,7 @@ public class DarkTextField implements TextField {
     private JTextField textField;
     private JButton editButton;
     private JButton cancelButton;
-    private String userName = "Người dùng";
+    private String userName = "Nguyen Van B";
     private boolean isEditing = false;
     
     @Override
@@ -44,7 +44,8 @@ public class DarkTextField implements TextField {
         editButton = new JButton("Edit");
         editButton.setFocusPainted(false);
         editButton.setBackground(new Color(40, 40, 45));
-        editButton.setForeground(new Color(250, 250, 250));
+        // editButton.setForeground(new Color(250, 250, 250));
+        editButton.setForeground(Color.BLUE);
         editButton.setBorder(BorderFactory.createLineBorder(new Color(60, 60, 70), 1));
         editButton.setPreferredSize(new Dimension(60, 32));
         
@@ -52,7 +53,8 @@ public class DarkTextField implements TextField {
         cancelButton = new JButton("Cancel");
         cancelButton.setFocusPainted(false);
         cancelButton.setBackground(new Color(45, 45, 50));
-        cancelButton.setForeground(new Color(250, 250, 250));
+        // cancelButton.setForeground(new Color(250, 250, 250));
+        cancelButton.setForeground(Color.BLUE);
         cancelButton.setBorder(BorderFactory.createLineBorder(new Color(60, 60, 70), 1));
         cancelButton.setPreferredSize(new Dimension(70, 32));
         cancelButton.setVisible(false); // Ẩn nút Cancel khi không trong chế độ chỉnh sửa
@@ -90,11 +92,11 @@ public class DarkTextField implements TextField {
                     UIManager.put("OptionPane.messageForeground", Color.WHITE);
                     
                     JOptionPane optionPane = new JOptionPane(
-                        "Đã lưu tên: " + userName,
+                        "Saved name: " + userName,
                         JOptionPane.INFORMATION_MESSAGE
                     );
                     
-                    JDialog dialog = optionPane.createDialog("Thông báo");
+                    JDialog dialog = optionPane.createDialog("Notification");
                     dialog.setVisible(true);
                 }
             }

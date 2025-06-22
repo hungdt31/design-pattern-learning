@@ -9,4 +9,5 @@ public interface GUIFactory {
     TextField createTextField();
     Window createWindow();
     Calculator createCalculator();
+    Label createLabel();
 } 

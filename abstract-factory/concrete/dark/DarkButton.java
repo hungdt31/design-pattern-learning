@@ -10,7 +10,7 @@ import java.awt.*;
 public class DarkButton implements Button {
     @Override
     public JComponent render() {
-        JButton button = new JButton("Xin chào");
+        JButton button = new JButton("Hello, ");
         button.setPreferredSize(new Dimension(100, 30));
         button.setBackground(new Color(40, 40, 45));
         button.setForeground(new Color(250, 250, 250));

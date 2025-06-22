@@ -8,6 +8,7 @@ import java.awt.*;
  */
 public class Application {
     private interfaces.TextField textField;
+    private interfaces.Label label;
     private interfaces.Window window;
     private interfaces.Calculator calculator;
     private GUIFactory factory;
@@ -60,10 +61,8 @@ public class Application {
             // Panel chứa label hiển thị chào mừng
             JPanel greetingPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
             greetingPanel.setOpaque(false);
-            JLabel greetingLabel = new JLabel("WELCOME:");
-            greetingLabel.setForeground(new Color(230, 230, 230));
-            greetingLabel.setFont(new Font("SansSerif", Font.PLAIN, 14));
-            greetingPanel.add(greetingLabel);
+            label = factory.createLabel();
+            greetingPanel.add(label.render());
 
             // Thêm các thành phần vào topPanel
             topPanel.add(greetingPanel, BorderLayout.WEST);

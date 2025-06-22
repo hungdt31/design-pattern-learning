@@ -25,4 +25,9 @@ public class DarkFactory implements GUIFactory {
     public Calculator createCalculator() {
         return new DarkCalculator();
     }
+
+    @Override
+    public Label createLabel() {
+        return new DarkLabel();
+    }
 } 
