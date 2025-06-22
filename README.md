@@ -11,6 +11,12 @@
 
 ## Learning Process
 
+> Theory and coding example
+
+## Creational Patterns
+
+- [Abstract Factory](/abstract-factory/README.md)
+
 ### Structural Patterns
 
 - [Decorator](/decorator/README.md)
