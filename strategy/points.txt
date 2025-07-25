@@ -72,7 +72,7 @@ CO3107 | Interdisciplinary Project Internship - Artificial Intelligence Track | 
 CO3109 | Interdisciplinary Project Internship - Software Technology Track | 1 | Elective | 9.70 | A+  
 CO3111 | Interdisciplinary Project Internship - Information Systems Track | 1 | Elective | - | -  
 
-12. MAJOR COURSES (GROUP C) (9/15, 3)  
+12. MAJOR COURSES (GROUP C) (12/15, 4)  
 Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
 CO3011 | Software Project Management | 3 | Elective | - | -  
 CO3013 | Compiler Construction | 3 | Elective | - | -  
@@ -80,7 +80,7 @@ CO3015 | Software Testing | 3 | Elective | - | -
 CO3017 | Software Architecture | 3 | Elective | - | -  
 CO3021 | Database Management Systems | 3 | Elective | - | -  
 CO3023 | Distributed and Object-Oriented Databases | 3 | Elective | - | -  
-CO3027 | E-Commerce | 3 | Elective | - | -  
+CO3027 | E-Commerce | 3 | Elective | 9.00 | A 
 CO3029 | Data Mining | 3 | Elective | - | -  
 CO3031 | Analysis and Design of Algorithms | 3 | Elective | - | -  
 CO3033 | Information System Security | 3 | Elective | - | -  

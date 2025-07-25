@@ -9,8 +9,10 @@
 ## Vấn đề
 
 Mở rộng phương thức theo cách tĩnh có nhiều bất cập:
+
 - Ta thường mở rộng phương thức cho một đối tượng bằng cách kế thừa, cần phải triển khai code để mở rộng lớp có sẵn và viết lại (overide) các phương thức của lớp đó.
 - Cho lớp cơ sở:
+
 ```c++
 public class Coffee {
   public String getDescription() {
@@ -24,6 +26,7 @@ public class Coffee {
 ```
 
 - Các lớp kế thừa:
+
 ```c++
 public class Espresso extends Coffee {
   @Override
