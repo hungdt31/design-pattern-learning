@@ -13,7 +13,7 @@ Theory and coding example
 
 **Run code example**: `bash run.sh <file_name>(default: Main)`
 
-## Creational Patterns
+### Creational Patterns
 
 Provide a solution to create instances and handle hidden logic instead of creating instances directly using new keyword. This helps make the program more flexible in determining which instances need to be created in different cases.
 
