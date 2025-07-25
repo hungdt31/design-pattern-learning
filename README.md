@@ -21,7 +21,7 @@ Provide a solution to create instances and handle hidden logic instead of creati
 
 ### Structural Patterns
 
-It is related to classes and the components of objects. It is used to establish, define the relationship between them. The bigger the system, the more important the pattern becomes.
+Related to classes and the components of objects. It is used to establish, define the relationship between them. The bigger the system, the more important the pattern becomes.
 
 - [Decorator](/decorator/README.md)
 
