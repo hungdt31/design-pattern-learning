@@ -2,7 +2,7 @@
 
 1. MATHEMATICS AND OTHER NATURAL SCIENCES (7/7, 2/2) 
 Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
-CO1007 | Discrete Structures for Computer Science | 4 | Compulsory | 6.90 | C+  
+CO1007 | Discrete Structures for Computer Science | 4 | Compulsory | 8.40 | B+  
 CO2011 | Mathematical Modeling | 3 | Compulsory | 7.40 | B  
 
 2. MATHEMATICS (15/15, 4/4)
@@ -24,7 +24,7 @@ SP1007 | General Vietnamese Law | 2 | Compulsory | 7.20 | B
 SP1031 | Marxist-Leninist Philosophy | 3 | Compulsory | 7.20 | B  
 SP1033 | Marxist-Leninist Political Economy | 2 | Compulsory | 7.30 | B  
 SP1035 | Scientific Socialism | 2 | Compulsory | 8.10 | B+  
-SP1037 | Ho Chi Minh Ideology | 2 | Compulsory | - | -  
+SP1037 | Ho Chi Minh Ideology | 2 | Compulsory | 7.70 | B  
 SP1039 | History of the Communist Party of Vietnam | 2 | Compulsory | 7.70 | B  
 
 5. FOREIGN LANGUAGE (8/8, 4/4) 
@@ -42,7 +42,7 @@ CO1005 | Introduction to Computing | 3 | Compulsory | 8.40 | B+
 Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
 IM1013 | General Economics | 3 | Elective | - | -  
 IM1023 | Production Management for Engineers | 3 | Elective | - | -  
-IM1025 | Project Management for Engineers | 3 | Elective | - | -  
+IM1025 | Project Management for Engineers | 3 | Elective | 9.00 | A 
 IM1027 | Technical Economics | 3 | Elective | - | -  
 IM3001 | Business Administration for Engineers | 3 | Elective | - | -  
 
@@ -88,13 +88,13 @@ CO3035 | Real-Time Systems | 3 | Elective | - | -
 CO3037 | Internet of Things Application Development | 3 | Elective | - | -  
 CO3041 | Intelligent Systems | 3 | Elective | - | -  
 CO3043 | Mobile Application Development | 3 | Elective | 9.00 | A  
-CO3045 | Game Programming | 3 | Elective | - | -  
+CO3045 | Game Programming | 3 | Elective | 9.80 | A+
 CO3047 | Advanced Computer Networks | 3 | Elective | - | -  
 CO3049 | Web Programming | 3 | Elective | 9.30 | A  
 CO3051 | Mobile Device Systems | 3 | Elective | - | -  
 CO3057 | Digital Image Processing and Computer Vision | 3 | Elective | - | -  
 CO3059 | Computer Graphics | 3 | Elective | - | -  
-CO3061 | Introduction to Artificial Intelligence | 3 | Elective | - | -  
+CO3061 | Introduction to Artificial Intelligence | 3 | Elective | 7.60 | B 
 CO3065 | Advanced Software Engineering | 3 | Elective | 7.50 | B  
 CO3067 | Parallel Computing | 3 | Elective | - | -  
 CO3069 | Cryptography and Network Security | 3 | Elective | - | -  
@@ -120,6 +120,6 @@ CO3093 | Computer Networks | 3 | Compulsory | 7.90 | B
 
 14. GRADUATION (0/8, 0/3)
 Course Code | Course Name | Credits | Compulsory/Elective | Score | Letter Grade  
-CO3335 | External Internship | 2 | Compulsory | - | -  
-CO4029 | Major Project | 2 | Compulsory | - | -  
+CO3335 | External Internship | 2 | Compulsory | 10.00 | A+  
+CO4029 | Major Project | 2 | Compulsory | 8.60 | A 
 CO4337 | Graduation Project (Computer Science) | 4 | Compulsory | - | -  
